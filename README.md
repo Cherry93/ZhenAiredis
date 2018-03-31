@@ -12,4 +12,4 @@ json
 hashlib
 re
 ### 运行方式 server:scrapy runspider zhenai.py
-### clint: lpush zhenai:start_urls http://search.zhenai.com/v2/search/pinterest.do
+### client: lpush zhenai:start_urls http://search.zhenai.com/v2/search/pinterest.do
